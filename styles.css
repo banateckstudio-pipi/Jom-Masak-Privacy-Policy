@@ -33,7 +33,6 @@ h1 { font-family: Georgia, "Times New Roman", serif; font-size: clamp(44px, 6vw,
 .lead { font-size: clamp(20px, 3vw, 25px); margin: 0 0 9px; line-height: 1.4; }
 .intro-copy { color: var(--muted); max-width: 620px; margin: 0; }
 .document-meta { display: flex; flex-wrap: wrap; gap: 12px 20px; align-items: center; margin-top: 26px; font-size: 12px; color: var(--muted); }
-.draft-label { background: var(--accent); color: #5b421c; padding: 4px 11px; border-radius: 4px; font-weight: 600; }
 .policy-layout { display: grid; grid-template-columns: 230px minmax(0, 1fr); gap: 54px; align-items: start; border-top: 1px solid var(--line); padding: 40px 0 76px; }
 .contents { position: sticky; top: 24px; }
 .contents > .eyebrow { margin: 0 0 18px; }
